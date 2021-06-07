@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hatice</h1>
 <h3 align="center">A passionate junior frontend developer.</h3>
 
+
+![image](https://user-images.githubusercontent.com/71832100/121020991-9188e380-c7a9-11eb-8ad3-467469ad26bd.png)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haticesurumlu&label=Profile%20views&color=0e75b6&style=flat" alt="haticesurumlu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haticesurumlu" alt="haticesurumlu" /></a> </p>
