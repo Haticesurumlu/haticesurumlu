@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior frontend developer.</h3>
 
 
-<div class="tenor-gif-embed" data-postid="11288919" data-share-method="host" data-width="100%" data-aspect-ratio="1.3426966292134832"><a href="https://tenor.com/view/internet-simpsons-gif-11288919">Internet Simpsons GIF</a> from <a href="https://tenor.com/search/internet-gifs">Internet GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<script> <div class="tenor-gif-embed" data-postid="11288919" data-share-method="host" data-width="100%" data-aspect-ratio="1.3426966292134832"><a href="https://tenor.com/view/internet-simpsons-gif-11288919">Internet Simpsons GIF</a> from <a href="https://tenor.com/search/internet-gifs">Internet GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haticesurumlu&label=Profile%20views&color=0e75b6&style=flat" alt="haticesurumlu" /> </p>
 
