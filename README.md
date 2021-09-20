@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haticesurumlu" alt="haticesurumlu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/haticesurumlu" target="blank"><img src="https://img.shields.io/twitter/follow/haticesurumlu?logo=twitter&style=for-the-badge" alt="haticesurumlu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cucegalaksii" target="blank"><img src="https://img.shields.io/twitter/follow/cucegalaksii?logo=twitter&style=for-the-badge" alt="cucegalaksii" /></a> </p>
 
 - 🌱 I’m currently learning **Js, Vue, Nunjucks**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/haticesurumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haticesurumlu" height="30" width="40" /></a>
+<a href="https://twitter.com/haticesurumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cucegalaksii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haticesurumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haticesurumlu" height="30" width="40" /></a>
 <a href="https://medium.com/@hatice-surumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hatice-surumlu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/haticeesurumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haticeesurumlu" height="30" width="40" /></a>
