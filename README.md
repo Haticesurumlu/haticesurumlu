@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Js, Vue, Nunjucks**
+- 🌱 I’m currently learning CSS , Javascript, Nunjucks .
 
 - 📝 I regularly write articles on [https://hatice-surumlu.medium.com/](https://hatice-surumlu.medium.com/)
 
