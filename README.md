@@ -6,11 +6,8 @@
 
 
 
-- 🌱 I’m currently learning HTML, CSS , Javascript.
 
 - 📝 I regularly write articles on [https://hatice-surumlu.medium.com/](https://hatice-surumlu.medium.com/)
-
-- 💬 Ask me about **C++, Java , HTML and CSS.**
 
 - 📫 How to reach me **haticeesurumlu@gmail.com**
 
