@@ -5,9 +5,7 @@
 
 
 
-- 📝 I regularly write articles on [https://hatice-surumlu.medium.com/](https://hatice-surumlu.medium.com/)
 
-- 📫 How to reach me **haticeesurumlu@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
